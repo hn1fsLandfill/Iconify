@@ -92,9 +92,9 @@
         </item>
 
         <!-- Alert dialog theme -->
-        <item name="materialAlertDialogTheme">@style/ThemeOverlay.App.MaterialAlertDialog.Monet
+	<!--<item name="materialAlertDialogTheme">@style/ThemeOverlay.App.MaterialAlertDialog.Monet
         </item>
-        <item name="alertDialogTheme">@style/ThemeOverlay.App.MaterialAlertDialog.Monet</item>
+	<item name="alertDialogTheme">@style/ThemeOverlay.App.MaterialAlertDialog.Monet</item> -->
     </style>
 
     <style name="Theme.Iconify.SplashScreen" parent="Theme.SplashScreen">
