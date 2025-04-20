@@ -41,12 +41,12 @@ object Resources {
         Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS).absolutePath
 
     val LOG_DIR = "$DOCUMENTS_DIR/Iconify"
-    const val MODULE_DIR = "/data/adb/modules/Iconify"
+    const val MODULE_DIR = "/data/adb/modules/Iconify2"
     const val SYSTEM_OVERLAY_DIR = "/system/product/overlay"
     const val OVERLAY_DIR = "$MODULE_DIR/system/product/overlay"
     val BACKUP_DIR = Environment.getExternalStorageDirectory().absolutePath + "/.iconify_backup"
     val TEMP_DIR = Environment.getExternalStorageDirectory().absolutePath + "/.iconify"
-    val TEMP_MODULE_DIR = "$TEMP_DIR/Iconify"
+    val TEMP_MODULE_DIR = "$TEMP_DIR/Iconify2"
     val TEMP_MODULE_OVERLAY_DIR = "$TEMP_MODULE_DIR/system/product/overlay"
     val TEMP_OVERLAY_DIR = "$TEMP_DIR/overlays"
     val TEMP_CACHE_DIR = "$TEMP_OVERLAY_DIR/cache"

@@ -57,8 +57,8 @@ object ModuleUtils {
         Shell.cmd("mkdir -p $TEMP_MODULE_DIR").exec()
 
         Shell.cmd(
-            "printf 'id=Iconify\n" +
-                    "name=Iconify\n" +
+            "printf 'id=Iconify2\n" +
+                    "name=Iconify2\n" +
                     "version=${BuildConfig.VERSION_NAME}\n" +
                     "versionCode=${BuildConfig.VERSION_CODE}\n" +
                     "author=@DrDisagree\n" +
