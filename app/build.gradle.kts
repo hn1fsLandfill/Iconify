@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    namespace = "com.hn1f.iconify"
+    namespace = "com.drdisagree.iconify"
     compileSdk = 35
 
     defaultConfig {
