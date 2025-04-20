@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.drdisagree.iconify"
+    namespace = "com.hn1f.iconify"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.drdisagree.iconify"
+        applicationId = "com.hn1f.iconify"
         minSdk = 31
         targetSdk = 35
         versionCode = 24

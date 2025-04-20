@@ -38,7 +38,7 @@
     <uses-permission android:name="com.drdisagree.iconify.READ_WEATHER" /> <!-- Permission for self Weather Provider -->
 
     <application
-        android:name=".Iconify"
+        android:name=".Iconify2"
         android:allowBackup="false"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:enableOnBackInvokedCallback="true"
